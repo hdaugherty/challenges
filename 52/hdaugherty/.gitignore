@@ -1,0 +1,6 @@
+.DS_Store
+.venv
+venv
+Pipfile
+Pipfile.lock
+database_testing.py
